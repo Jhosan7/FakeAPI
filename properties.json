@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "property_name": "Tavu",
+  "city": "Bjästa",
+  "country": "Sweden",
+  "phone": "844-294-6001"
+}, {
+  "id": 2,
+  "property_name": "Quatz",
+  "city": "Maying",
+  "country": "China",
+  "phone": "327-346-5337"
+}, {
+  "id": 3,
+  "property_name": "Gabcube",
+  "city": "Ngaoundéré",
+  "country": "Cameroon",
+  "phone": "914-606-3479"
+}, {
+  "id": 4,
+  "property_name": "Twinte",
+  "city": "Sidareja",
+  "country": "Indonesia",
+  "phone": "398-500-3933"
+}, {
+  "id": 5,
+  "property_name": "Voomm",
+  "city": "Rusocice",
+  "country": "Poland",
+  "phone": "629-312-7225"
+}, {
+  "id": 6,
+  "property_name": "Vipe",
+  "city": "Hörby",
+  "country": "Sweden",
+  "phone": "354-635-8401"
+}, {
+  "id": 7,
+  "property_name": "Skimia",
+  "city": "Yanzhou",
+  "country": "China",
+  "phone": "811-248-3263"
+}, {
+  "id": 8,
+  "property_name": "Quinu",
+  "city": "Martensville",
+  "country": "Canada",
+  "phone": "922-893-6938"
+}, {
+  "id": 9,
+  "property_name": "Digitube",
+  "city": "Serra de Água",
+  "country": "Portugal",
+  "phone": "661-228-5736"
+}, {
+  "id": 10,
+  "property_name": "Skajo",
+  "city": "Ertai",
+  "country": "China",
+  "phone": "173-199-6553"
+}]

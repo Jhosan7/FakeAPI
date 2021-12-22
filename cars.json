@@ -1,0 +1,51 @@
+[{
+  "id": 1,
+  "car_model": "Cooper Clubman",
+  "car_make": "MINI",
+  "car_year": 2008
+}, {
+  "id": 2,
+  "car_model": "XJ Series",
+  "car_make": "Jaguar",
+  "car_year": 1993
+}, {
+  "id": 3,
+  "car_model": "V8 Vantage S",
+  "car_make": "Aston Martin",
+  "car_year": 2012
+}, {
+  "id": 4,
+  "car_model": "MKX",
+  "car_make": "Lincoln",
+  "car_year": 2013
+}, {
+  "id": 5,
+  "car_model": "Camry Solara",
+  "car_make": "Toyota",
+  "car_year": 2008
+}, {
+  "id": 6,
+  "car_model": "9-5",
+  "car_make": "Saab",
+  "car_year": 2011
+}, {
+  "id": 7,
+  "car_model": "Crossfire",
+  "car_make": "Chrysler",
+  "car_year": 2007
+}, {
+  "id": 8,
+  "car_model": "F350",
+  "car_make": "Ford",
+  "car_year": 2008
+}, {
+  "id": 9,
+  "car_model": "Sienna",
+  "car_make": "Toyota",
+  "car_year": 2005
+}, {
+  "id": 10,
+  "car_model": "Town & Country",
+  "car_make": "Chrysler",
+  "car_year": 2000
+}]
