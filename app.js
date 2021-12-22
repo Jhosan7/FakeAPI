@@ -77,6 +77,14 @@ router.route('/cars')
         res.status(200).jsonp({ msg: 'ok', data: cars });
     });
 
+router.route('/car/:id')
+    .get(verify, (req, res) => {
+        if (cars[req.params.id-1]) {
+            return res.status(200).jsonp({ msg: 'ok', data: cars[req.params.id-1] });
+        }
+        res.status(400).jsonp({ error: 400, msg: 'car not found' });
+    });
+
 
 
 // Error 404
