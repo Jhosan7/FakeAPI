@@ -142,7 +142,8 @@ router.route('/car/:id')
         return res.redirect(302, url.format({
             protocol: 'https',
             host: 'login.imjose.app',
-            pathname: '/oauth2/authorize',
+            // pathname: '/oauth2/authorize',
+            pathname: '/login',
             query: {
                 response_type: 'code',
                 client_id: clientId,
